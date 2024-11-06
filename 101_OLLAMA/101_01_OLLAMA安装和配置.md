@@ -7,6 +7,12 @@
 查找选中的模型 
 https://ollama.com/library
 
+
+![](images/Pasted%20image%2020241106121055.png)
+
+
+![](images/Pasted%20image%2020241106121102.png)
+
 ## 1.1 Gemma 
 https://ollama.com/library/gemma
 `ollama run gemma:2b`
