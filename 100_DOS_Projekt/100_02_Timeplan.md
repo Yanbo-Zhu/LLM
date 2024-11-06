@@ -23,9 +23,20 @@ https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction
 
 ---
 2024-11-06 碰面 
+1
+RAG instrasture 
+Claude Sonnet 3.5
+
+2 
+[llama3.2](https://ollama.com/library/llama3.2)
+
+
+3
+
+
 用 system_profiler 提取一些数据, 放到一个 txt file 中 
 让 llm 去里面 读取 其中 username 的数据 
 
-蔚来, 将 数据存到一个database , 让 llm 去里面 读取 其中 username 的数据 
+未来, 将 数据存到一个database , 让 llm 去里面 读取 其中 username 的数据 
 
 
